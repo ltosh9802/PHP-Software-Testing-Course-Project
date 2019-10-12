@@ -18,7 +18,7 @@ error_reporting(1);
 
 <body>
 <?php include('ads/header.php');?>
-<table width="100%" border="1" align="center">
+<table width="70%" border="1" align="center">
   <tr>
     <td height="135" colspan="2">
 	<img src="slide image/titleimage.jpg" name="slide" border="0" width="100%" height="200"></td>
